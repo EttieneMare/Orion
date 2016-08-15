@@ -9,3 +9,4 @@ C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\Entity
 C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.Migrations.Employee.resources
 C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.csproj.GenerateResource.Cache
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.csprojResolveAssemblyReference.cache
