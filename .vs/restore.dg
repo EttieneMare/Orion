@@ -1,6 +1,1 @@
-#:C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\Orion.Data.xproj
-#:C:\Users\ettiene.m\Source\Repos\Orion\Tests\Library\Orion.Data.Tests\Orion.Data.Tests.xproj
-C:\Users\ettiene.m\Source\Repos\Orion\Tests\Library\Orion.Data.Tests\Orion.Data.Tests.xproj|C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\Orion.Data.xproj
-#:C:\Users\ettiene.m\Source\Repos\Orion\Source\Delivery\Orion.Delivery.Web\Orion.Delivery.Web.xproj
-#:C:\Users\ettiene.m\Source\Repos\Orion\Tests\Delivery\Orion.Delivery.Web.Tests\Orion.Delivery.Web.Tests.xproj
-C:\Users\ettiene.m\Source\Repos\Orion\Tests\Delivery\Orion.Delivery.Web.Tests\Orion.Delivery.Web.Tests.xproj|C:\Users\ettiene.m\Source\Repos\Orion\Source\Delivery\Orion.Delivery.Web\Orion.Delivery.Web.xproj
+#:C:\Users\ettiene.m\Source\Repos\Orion\Source\Delivery\Orion.Data\Orion.Data.xproj

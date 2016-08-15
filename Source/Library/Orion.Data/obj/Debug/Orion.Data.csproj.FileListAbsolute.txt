@@ -1,0 +1,11 @@
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\Orion.Data.dll
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\Orion.Data.pdb
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.dll
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.pdb
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\Orion.Data.dll.config
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\EntityFramework.dll
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\EntityFramework.xml
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.Migrations.Employee.resources
+C:\Users\ettiene.m\Source\Repos\Orion\Source\Library\Orion.Data\obj\Debug\Orion.Data.csproj.GenerateResource.Cache
